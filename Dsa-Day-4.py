@@ -22,7 +22,7 @@ class Queue:
         else:
             raise IndexError("peek from an empty queue")
 
-# Example usage:
+# Example usage: 
 queue = Queue()
 queue.enqueue(1)
 queue.enqueue(2)
