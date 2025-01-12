@@ -1,5 +1,6 @@
 # Implement a basic queue using an array 
 
+
 class Queue:
     def __init__(self):
         self.queue = []
